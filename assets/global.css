@@ -1,0 +1,34 @@
+*{
+    padding: 0;margin: 0;box-sizing: border-box;
+    width: 100%;
+    overflow-x: hidden;
+    font-family: maya;
+}
+@font-face {
+    font-family: maya;
+    src: url(font/Dongle-Light.ttf);
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    &:visited{
+        color: inherit;
+    }
+}
+
+.icon-instagram , .icon-mobile ,.icon-mail , .icon-linkedin , .icon-heart{
+   
+     font-size: 25px;
+     background-color: transparent;
+     color: white;
+
+}
+
+.row{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}

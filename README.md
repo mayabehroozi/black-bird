@@ -8,6 +8,6 @@ b476-a88e984abefe.jpg) - [Demo Project](https://mayabehroozi.github.io/black-bir
 
 
 
-- How to reach me : with my [instagram](https://www.instagram.com/mayacodingjourney) and 
-[linkedin](https://www.linkedin.com/in/mayabehroozi) 
+- How to reach me : with my [instagram](https://www.instagram.com/mayacodingjourneyy) and 
+[linkedin](https://www.linkedin.com/in/maya-behroozi-5b27a425b/) 
 
